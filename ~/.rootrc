@@ -1,0 +1,1 @@
+printf "Browser.Name: TRootBrowser\nCanvas.Name: TRootCanvas\n" > ~/.rootrc
